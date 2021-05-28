@@ -1,0 +1,26 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+	/*background-color: #323d45;*/
+}
+h1{
+	color: green;
+	margin-top: 8px;
+	font-weight: bold;
+}
+img{
+	height: 250px;
+	width: 250px;
+}
+#main{
+	text-align: center;
+}
+a{
+	margin-top: 4px;
+}
+h4{
+	margin-top: 6px;
+	color: green;
+}
